@@ -52,7 +52,7 @@ A simple drag-and-drop GUI tool to crack password-protected `.zip` and `.pdf` fi
 
 ```bash
 
-git clone https://github.com/yourusername/zip\_pdf\_cracker\_gui.git
+git clone https://github.com/sr33jih/zip\_pdf\_cracker\_gui.git
 
 cd zip\_pdf\_cracker\_gui
 
